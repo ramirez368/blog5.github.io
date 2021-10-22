@@ -7,10 +7,10 @@ layout: default
 
 [//]: #  There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# What is LDAP?
-LDAP (Lightweight Directory Access Protocol) is an open and cross platform protocol used for directory services authentication.
+## What are the business benefits of RPA?
+Robotic process automation streamlines workflows, which makes organizations more profitable, flexible, and responsive. It also increases employee satisfaction, engagement, and productivity by removing mundane tasks from their workdays.
 
-LDAP provides the communication language that applications use to communicate with other directory services servers. Directory services store the users, passwords, and computer accounts, and share that information with other entities on the network.
+RPA is noninvasive and can be rapidly implemented to accelerate digital transformation. And it’s ideal for automating workflows that involve legacy systems that lack APIs, virtual desktop infrastructures (VDIs), or database access. 
 
 
 
@@ -25,13 +25,12 @@ SASL authentication binds the LDAP server to another authentication mechanism, l
 
 It’s important to note that LDAP passes all of those messages in clear text by default, so anyone with a network sniffer can read the packets. You need to add TLS encryption or similar to keep your usernames and passwords safe.
 
-### What is Active Directory?
-Active Directory is a directory services implementation that provides all sorts of functionality like authentication, group and user management, policy administration and more.
+### Why is RPA transformative?
+RPA technology is changing how the world gets work done.
 
-Active Directory (AD) supports both Kerberos and LDAP – Microsoft AD is by far the most common directory services system in use today. AD provides Single-SignOn (SSO) and works well in the office and over VPN. AD and Kerberos are not cross platform, which is one of the reasons companies are implementing access management software to manage logins from many different devices and platforms in a single place. AD does support LDAP, which means it can still be part of your overall access management scheme.
+Software robots—instead of people—do repetitive and lower-value work, like logging into applications and systems, moving files and folders, extracting, copying, and inserting data, filling in forms, and completing routine analyses and reports. Advanced robots can even perform cognitive processes, like interpreting text, engaging in chats and conversations, understanding unstructured data, and applying advanced machine learning models to make complex decisions.
 
-Active Directory is just one example of a directory service that supports LDAP. There are other flavors, too: Red Hat Directory Service, OpenLDAP, Apache Directory Server, and more.
-
+When robots do these types of repetitive, high-volume tasks, humans are freed to focus on the things they do best and enjoy more: innovating, collaborating, creating, and interacting with customers. Enterprises get a boost too: higher productivity, efficiency, and resilience. It’s no wonder that RPA is rewriting the story of work.
 
 
 ### LDAP vs. Active Directory
