@@ -26,7 +26,7 @@ Robotic process automation streamlines workflows, which makes organizations more
 
 RPA is noninvasive and can be rapidly implemented to accelerate digital transformation. And it’s ideal for automating workflows that involve legacy systems that lack APIs, virtual desktop infrastructures (VDIs), or database access. 
 
-
+ ![ alt text for screen readers] https://rpatools.com/wp-content/uploads/2018/10/Test.png
 ### I hope this was useful to know more about automation
 
 
