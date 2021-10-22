@@ -21,15 +21,19 @@ Software robots—instead of people—do repetitive and lower-value work, like l
 When robots do these types of repetitive, high-volume tasks, humans are freed to focus on the things they do best and enjoy more: innovating, collaborating, creating, and interacting with customers. Enterprises get a boost too: higher productivity, efficiency, and resilience. It’s no wonder that RPA is rewriting the story of work.
 
 
-### What are the business benefits of RPA?
-Robotic process automation streamlines workflows, which makes organizations more profitable, flexible, and responsive. It also increases employee satisfaction, engagement, and productivity by removing mundane tasks from their workdays.
-
-RPA is noninvasive and can be rapidly implemented to accelerate digital transformation. And it’s ideal for automating workflows that involve legacy systems that lack APIs, virtual desktop infrastructures (VDIs), or database access. 
-
 ### What are the pitfalls of RPA?
 RPA isn’t for every enterprise. As with any automation technology, RPA has the potential to eliminate jobs, which presents CIOs with challenges managing talent. While enterprises embracing RPA are attempting to transition many workers to new jobs, Forrester Research estimates that RPA software will threaten the livelihood of 230 million or more knowledge workers, or approximately 9 percent of the global workforce. 
 
 Even if CIOs navigate the human capital conundrum, RPA implementations fail more often than not. “Several robotics programs have been put on hold, or CIOs have flatly refused to install new bots,” Alex Edlich and Vik Sohoni, senior partners at McKinsey & Company, said in a May 2017 report.
+
+### What companies are using RPA?
+Walmart, Deutsche Bank, AT&T, Vanguard, Ernst & Young, Walgreens, Anthem and American Express Global Business Travel are among the many enterprises adopting RPA.
+
+Walmart CIO Clay Johnson says the retail giant has deployed about 500 bots to automate anything from answering employee questions to retrieving useful information from audit documents. "A lot of those came from people who are tired of the work," Johnson says.
+
+David Thompson, CIO of American Express Global Business Travel, uses RPA to automate the process for canceling an airline ticket and issuing refunds. Thompson is also looking to use RPA to facilitate automatic rebook recommendations in the event of an airport shutdown, and to automate certain expense management tasks.
+
+"We've taken RPA and trained it on how employees do those tasks," says Thompson, who implemented a similar solution in his prior role as CIO at Western Union. "The list of things we could automate is getting longer and longer."
 
 ### I hope this was useful to know more about automation
 
