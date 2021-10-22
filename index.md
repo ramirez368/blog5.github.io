@@ -20,13 +20,16 @@ Software robots—instead of people—do repetitive and lower-value work, like l
 
 When robots do these types of repetitive, high-volume tasks, humans are freed to focus on the things they do best and enjoy more: innovating, collaborating, creating, and interacting with customers. Enterprises get a boost too: higher productivity, efficiency, and resilience. It’s no wonder that RPA is rewriting the story of work.
 
-![RPA Process] (https://bitnary.info/wp-content/uploads/2017/06/rpacircle_en-278x300.png)
- 
+
 ### What are the business benefits of RPA?
 Robotic process automation streamlines workflows, which makes organizations more profitable, flexible, and responsive. It also increases employee satisfaction, engagement, and productivity by removing mundane tasks from their workdays.
 
 RPA is noninvasive and can be rapidly implemented to accelerate digital transformation. And it’s ideal for automating workflows that involve legacy systems that lack APIs, virtual desktop infrastructures (VDIs), or database access. 
 
+### What are the pitfalls of RPA?
+RPA isn’t for every enterprise. As with any automation technology, RPA has the potential to eliminate jobs, which presents CIOs with challenges managing talent. While enterprises embracing RPA are attempting to transition many workers to new jobs, Forrester Research estimates that RPA software will threaten the livelihood of 230 million or more knowledge workers, or approximately 9 percent of the global workforce. 
+
+Even if CIOs navigate the human capital conundrum, RPA implementations fail more often than not. “Several robotics programs have been put on hold, or CIOs have flatly refused to install new bots,” Alex Edlich and Vik Sohoni, senior partners at McKinsey & Company, said in a May 2017 report.
 
 ### I hope this was useful to know more about automation
 
