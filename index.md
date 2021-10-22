@@ -20,7 +20,7 @@ Software robots—instead of people—do repetitive and lower-value work, like l
 
 When robots do these types of repetitive, high-volume tasks, humans are freed to focus on the things they do best and enjoy more: innovating, collaborating, creating, and interacting with customers. Enterprises get a boost too: higher productivity, efficiency, and resilience. It’s no wonder that RPA is rewriting the story of work.
 
-![RPA Explained ] https://rpatools.com/wp-content/uploads/2018/10/Test.png
+![RPA Explained ] https://ariscommunity.com/system/files/images/lifecycle_whitebg.png
  
 ### What are the business benefits of RPA?
 Robotic process automation streamlines workflows, which makes organizations more profitable, flexible, and responsive. It also increases employee satisfaction, engagement, and productivity by removing mundane tasks from their workdays.
