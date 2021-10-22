@@ -35,3 +35,15 @@ Thank you readers, and wait for next week blog
 For Contact e-mail me at ramirez368@hotmail.com
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+![Differences between LDAP and Kerberos ](https://lh3.googleusercontent.com/Xka7iPt1EcRPEPwpeYW6UcihVmYqLWkgInc8vBTbOz2jZh93ODPXqmbh6y3PMRBxChyorRzXbsVJmV27x9HrEGt76NQp0wLmpiVB7_b0w9D_HuZaGVhQ0bdErlCN5JoJXIkP4yO6=s0)
